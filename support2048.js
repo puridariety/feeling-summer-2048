@@ -76,28 +76,28 @@ function getNumberText(number) {
             return "鸡肉干";
             break;
         case 32:
-            return "小八嘎";
+            return "彩虹袜";
             break;
         case 64:
-            return "隔壁小帅";
+            return "小八嘎";
             break;
         case 128:
-            return "隔壁邻居";
+            return "海底捞";
             break;
         case 256:
-            return "租个Loft";
+            return "月色";
             break;
         case 512:
-            return "地下车库";
+            return "飞哥";
             break;
         case 1024:
-            return "一盒草莓";
+            return "老王";
             break;
         case 2048:
-            return "孩子爸";
+            return "feeling";
             break;
         case 4096:
-            return "孩子妈";
+            return "夏天";
             break;
         case 8192:
             return "王妃";
